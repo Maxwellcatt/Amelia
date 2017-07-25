@@ -8,14 +8,6 @@ Amelia是出于业余爱好开发的一个开源的小型四旋翼飞行控制�
 
 ![tu](http://otfofj1a4.bkt.clouddn.com/Amelia_Earhart.jpg)
 
-## Amelia展示
-
-![tu1](http://otfofj1a4.bkt.clouddn.com/Amelia1.JPG)
-
-![tu2](http://otfofj1a4.bkt.clouddn.com/Amelia2.JPG)
-
-![tu3](http://otfofj1a4.bkt.clouddn.com/Amelia4.JPG)
-
 ----------
 
 ## 更多
