@@ -10,11 +10,11 @@ Amelia是出于业余爱好开发的一个开源的小型四旋翼飞行控制�
 
 ## Amelia展示
 
-![tu](http://otfofj1a4.bkt.clouddn.com/Amelia1.JPG)
+![tu1](http://otfofj1a4.bkt.clouddn.com/Amelia1.JPG)
 
-![tu](http://otfofj1a4.bkt.clouddn.com/Amelia2.JPG)
+![tu2](http://otfofj1a4.bkt.clouddn.com/Amelia2.JPG)
 
-![tu](http://otfofj1a4.bkt.clouddn.com/Amelia4.JPG)
+![tu3](http://otfofj1a4.bkt.clouddn.com/Amelia4.JPG)
 
 ----------
 
